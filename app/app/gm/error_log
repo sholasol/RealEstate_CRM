@@ -1,0 +1,5 @@
+[18-Jun-2020 12:21:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/gm/dash_nav.php on line 2
+[18-Jun-2020 12:22:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/gm/dash_nav.php on line 2
+[18-Jun-2020 12:26:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/gm/dash_nav.php on line 5
+[18-Jun-2020 12:32:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/gm/dash_nav.php on line 5
+[18-Jun-2020 12:37:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/gm/dash_nav.php on line 5

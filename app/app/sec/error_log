@@ -1,0 +1,28 @@
+[25-May-2020 16:53:40 UTC] PHP Notice:  Undefined variable: name in /home/spclothi/public_html/mrc/app/sec/nav.php on line 120
+[25-May-2020 16:53:40 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/aporder.php on line 161
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: name in /home/spclothi/public_html/mrc/app/sec/dash_nav.php on line 118
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 176
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 185
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 191
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 198
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 204
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 210
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 216
+[26-May-2020 21:39:03 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 221
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: name in /home/spclothi/public_html/mrc/app/sec/dash_nav.php on line 118
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 176
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 185
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 191
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 198
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 204
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 210
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 216
+[26-May-2020 21:40:36 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/index.php on line 221
+[27-May-2020 17:24:51 UTC] PHP Notice:  Undefined index: qty in /home/spclothi/public_html/mrc/app/sec/expense.php on line 145
+[27-May-2020 17:26:21 UTC] PHP Notice:  Undefined index: qty in /home/spclothi/public_html/mrc/app/sec/expense.php on line 145
+[02-Jun-2020 16:32:32 UTC] PHP Notice:  Undefined variable: name in /home/spclothi/public_html/mrc/app/sec/dash_nav.php on line 118
+[02-Jun-2020 16:32:32 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/sorder.php on line 9
+[02-Jun-2020 16:32:32 UTC] PHP Notice:  Undefined variable: branch in /home/spclothi/public_html/mrc/app/sec/sorder.php on line 168
+[18-Jun-2020 12:59:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/sec/dash_nav.php on line 6
+[18-Jun-2020 13:01:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/sec/dash_nav.php on line 6
+[18-Jun-2020 13:08:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/silverp1/public_html/mrc/app/sec/dash_nav.php on line 5
